@@ -63823,7 +63823,7 @@ return this.b+b}}
 M.a_h.prototype={}
 M.RR.prototype={}
 R.Eg.prototype={
-J:function(a,b){var s,r,q=null,p=t.p,o=this.c,n=E.ka(H.a([],p),C.aa,0,L.dY(o.a,q,q,q,q,q,q,q,q,q,q,q)),m=T.aex(U.aiC(C.fT,new L.o7("assets/images/background.jpg"))),l=L.b5("Welcome, User")
+J:function(a,b){var s,r,q=null,p=t.p,o=this.c,n=E.ka(H.a([],p),C.aa,0,L.dY(o.a,q,q,q,q,q,q,q,q,q,q,q)),m=T.aex(U.aiC(C.fT,new L.o7("images/background.jpg"))),l=L.b5("Welcome, User")
 l.ch=C.a2
 l=l.cf(l,2.25)
 s=l.gcn()
@@ -64403,7 +64403,7 @@ r=T.de(R.el(!1,!0,r.aB(),a4,!0,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,new N.a5o(a7),a4,a4
 q=L.b5("Register")
 p=t.p
 s=E.ka(H.a([A.bJ(F.ae2(H.a([r,new T.aq(18,a4,a4,a4),T.de(R.el(!1,!0,q.cf(q,1.5).aB(),a4,!0,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,new N.a5p(a7),a4,a4,a4,a4,a4),a4,a4,a4)],p),C.kI,C.bT),0,0,24,0)],p),C.aa,0,s)
-q=T.aex(U.aiC(C.fT,new L.o7("/assets/images/background.jpg")))
+q=T.aex(U.aiC(C.fT,new L.o7("images/background.jpg")))
 r=L.b5(a5)
 o=r.gcn()
 r.bz$=C.j
